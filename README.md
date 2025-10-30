@@ -1,6 +1,6 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name:  Alan Domonic R</h3>
-<h3>Register Number: 212224030002</h3>
+<h3>Name:  Lokesh J R</h3>
+<h3>Register Number: 212224030017</h3>
 
 
 <h3>AIM:</h3>
